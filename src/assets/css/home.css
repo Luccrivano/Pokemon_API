@@ -1,0 +1,11 @@
+.Conteiner {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+.pk {
+  width: 450px;
+  height: 500px;
+}

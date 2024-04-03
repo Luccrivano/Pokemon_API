@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+
+h3 {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+select {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  font-size: 30px;
+}
+
+button {
+  width: 300px;
+  font-size: 20px;
+  justify-content: center;
+}

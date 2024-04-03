@@ -1,0 +1,24 @@
+.Container {
+  display: flex;
+  flex-direction: column;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.avatar {
+  width: 500px;
+  height: 450px;
+  background-color: rgb(98, 104, 104);
+}
+
+.titulo {
+  font-size: 40px;
+}
+
+ul {
+  font-size: 30px;
+}
